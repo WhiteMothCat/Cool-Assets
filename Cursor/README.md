@@ -12,3 +12,7 @@ For the design of the cursor I propose creating a `.png` image of about 64x64pix
 ## 💾 How to apply your cursor to your computer
 
 ### 💻 Windows
+
+1. Search for _cursor_ in the configuration
+2. Go to _themes and related configuration/ mouse cursor/ cursor_
+3. Select which cursor and the file you want to change
